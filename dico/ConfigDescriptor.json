@@ -1,0 +1,14 @@
+{
+  "AnalysisDelimiter": {
+    "delimiters": [
+      "\t",
+      ",",
+      ";",
+      "|"
+    ],
+    "threshold": 0.9
+  },
+  "thresholdHeader": 0.9,
+  "rateRecord": 0.5
+}
+

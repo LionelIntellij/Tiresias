@@ -1,0 +1,13 @@
+FROM debian:stretch
+RUN apt-get update
+RUN apt-get install -y build-essential \
+                    libboost-dev \
+                    libboost-system-dev \
+                    libboost-filesystem-dev \
+                    lib_archive\
+                    libboost_unit_test_framework\
+                    libboost_iostreams \
+                    libbz2-dev \
+                    cmake \
+
+ENV SMART_DESCRIPTOR_TEST_FILE=/unit_test/test_file

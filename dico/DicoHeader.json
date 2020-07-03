@@ -1,0 +1,109 @@
+{
+  "civility": [
+    "civilite",
+    "civ"
+  ],
+  "firstname": [
+    "prenom",
+    "prnm"
+  ],
+  "lastname_firstname": [
+    "nomprenom",
+    "patronyme"
+  ],
+  "lastname": [
+    "nom",
+    "name"
+  ],
+  "birth": [
+    "ddn",
+    "datenaissance",
+    "datenaiss",
+    "datenaiss"
+  ],
+  "adressl2": [
+    "adrs2",
+    "complementnom",
+    "cnom",
+    "compnom",
+    "complnom"
+  ],
+  "adressl3": [
+    "cadrs",
+    "compadrs",
+    "complementadrs",
+    "compladrs",
+    "complementadresse"
+  ],
+  "adressl4": [
+    "adress",
+    "adrs",
+    "adresse"
+  ],
+  "adressl5": [
+    "hameau",
+    "lieudit"
+  ],
+  "locality": [
+    "ville",
+    "localite",
+    "loc",
+    "city",
+    "country",
+    "vil"
+  ],
+  "zipcode": [
+    "codpost",
+    "codepostale",
+    "codepostal",
+    "zipcode",
+    "cp"
+  ],
+  "zipcode_locality": [
+    "codepostallocality",
+    "codpostloc",
+    "ZIPCODELOCALITY"
+  ],
+  "phone": [
+    "tel",
+    "phone",
+    "telephone"
+  ],
+  "phonefix": [
+    "telf",
+    "telephonefix",
+    "telephonefixe"
+  ],
+  "phonemobile": [
+    "telp",
+    "telm",
+    "telmob",
+    "mobile",
+    "portable",
+    "port"
+  ],
+  "mail": [
+    "email",
+    "mail"
+  ],
+  "streetnumber": [
+    "voienum",
+    "voienumero",
+    "nimvoie",
+    "numerovoie"
+  ],
+  "streettype": [
+    "typevoie",
+    "voietype"
+  ],
+  "streetextension": [
+    "complementvoie",
+    "complvoie",
+    "compvoie"
+  ],
+  "streetname": [
+    "nomvoie",
+    "voienom"
+  ]
+}
+
